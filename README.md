@@ -1,5 +1,5 @@
-# news-data
-A collection of Open news data collected from different twitter news accounts including @reporter_amhari, @dw_amharic, @VOAAmharic, @AlainAmharic, @VOATigrigna, @VOAAfaanOromoo, @addis_fortune, and @addisstandard. It contains all of these accounts twit from 2011 the day twitter was created up to 2022.
+# News Data
+A collection of monolingual open news dataset collected from different twitter accounts including @reporter_amhari, @dw_amharic, @VOAAmharic, @AlainAmharic, @VOATigrigna, @VOAAfaanOromoo, @addis_fortune, and @addisstandard. It contains datas from 2011 the day twitter was created up to 2022.
 
 
 
